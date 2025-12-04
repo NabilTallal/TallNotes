@@ -38,7 +38,7 @@ Core features and backend architecture are still being developed.
 - [ ] Rich text editor integration
 - [ ] WebSocket server
 - [ ] Real-time sync prototype
-- [ ] Authentication
+- [X] Authentication
 - [ ] Document CRUD
 - [ ] UI/UX improvements
 
