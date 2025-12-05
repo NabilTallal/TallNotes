@@ -39,7 +39,7 @@ Core features and backend architecture are still being developed.
 - [ ] WebSocket server
 - [ ] Real-time sync prototype
 - [X] Authentication
-- [ ] Document CRUD
+- [X] Document CRUD
 - [ ] UI/UX improvements
 
 ## Notes
