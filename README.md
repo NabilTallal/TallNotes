@@ -37,7 +37,7 @@ Core features and backend architecture are still being developed.
 - [x] React frontend scaffold
 - [ ] Rich text editor integration
 - [ ] WebSocket server
-- [ ] Real-time sync prototype
+- [X] Real-time sync prototype
 - [X] Authentication
 - [X] Document CRUD
 - [ ] UI/UX improvements
